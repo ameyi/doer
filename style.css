@@ -1,0 +1,19 @@
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    width: 100%;
+    color: orange;
+}
+.people{
+    color: blue;
+}
+body{
+    background-color: cyan;
+    color: black;
+}
+#camera{
+    border: 10px solid red;
+    height: 350px;
+    width: 275px;
+    border-radius: 5px blue;
+}
